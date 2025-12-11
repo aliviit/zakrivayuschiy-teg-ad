@@ -1,1 +1,1 @@
- https://aliviit.github.io/zakrivayuschiy-teg-ad/
+ https://github.com/aliviit/zakrivayuschiy-teg-ad
