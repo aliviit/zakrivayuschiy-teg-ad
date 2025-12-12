@@ -255,11 +255,10 @@
 }
 
 .floppy {
-  fill: var(--mix-blend-color);
+  fill: black;
   inline-size: 28px;
   block-size: 28px;
-  stroke: var(--mix-blend-color);
-  mix-blend-mode: difference;
+  stroke: black;
 }
 
 .button-remember {
